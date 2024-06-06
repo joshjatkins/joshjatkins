@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh Atkins!
 - 👀 I’m interested in software engineering and data analytics.
-- 🌱 I’m currently learning addiitonal programming languages like Javascript and Python.
+- 🌱 I’m currently learning additonal programming languages like Javascript and Python.
 - 💞️ I’m looking to collaborate on anything that piques my interest.
 - 📫 How to reach me via email: joshjatkins@gmail.com
 
